@@ -1,0 +1,225 @@
+.landingPage {
+    header {
+        height: 59px;
+        padding: 35px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: $black;
+        color: white;
+        border-bottom: 7px solid $red;
+        h1 {
+            color: $white;
+            font-family: $heading;
+            font-weight: 700;
+            font-size: 5rem;
+            @include mq-500 {
+                font-size: 3.5rem;
+            }
+        }
+    }
+
+    ul {
+        display: flex;
+        justify-content: center;
+    }
+    .start {
+        background: $offWhite;
+        background-image:url('../../images/heroImage.png/');
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: right;
+        height: 89vh;
+        @include mq-710 {
+            background-size: cover;
+        }
+    }
+
+    .startContainer {
+        height: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        align-content: center;
+        .tagLine {
+            flex: 1 0 100%;
+            text-align: left;
+            padding: 15px 0;
+            .redText {
+                color: $red;
+            }
+            h2 {
+                font-weight: 400;
+                @include mq-980 {
+                    background:white;
+                    padding: 10px;
+                }
+            }
+        }
+    }
+
+    .startForm {
+        flex: 0 1 770px;
+        @include mq-980 {
+            flex: 1 1 100%;
+        }
+        text-align: left;
+        input {
+            flex: 1 0 350px;
+            height: 60px;
+            margin-right: 10px;
+            padding-left: 10px;
+            @include mq-980 {
+                flex: 1 1 100%;
+                margin-right: 0;
+            }
+        }
+        display: flex;
+        @include mq-980 {
+            display: block;
+            background: rgba(255, 255, 255, 0.705);
+        }
+        @include mq-980 {
+            p {
+                margin-top: 25px;
+            }
+        }
+        background: $white;
+        padding: 20px;
+        box-shadow: 3px 3px 10px darken($offWhite, 10%);
+    }
+
+    form {
+        display: flex;
+        @include mq-980 {
+            flex-wrap: wrap;
+        }
+    }
+    .buttons {
+        display: flex;
+        @include mq-980 {
+            justify-content: space-between;
+            width: 100%;
+        }
+    }
+}
+
+// button styling here
+button,
+.skipToEvents {
+    width: 170px;
+    height: 60px;
+    font-family: $body;
+    font-weight: 600;
+    background: $yellow;
+    text-transform: uppercase;
+    border: none;
+    box-shadow: 1px 1px 2px $black;
+    position: relative;
+    &:focus {
+        border: dotted 3px $black;
+    }
+    &:active {
+        box-shadow: none;
+        top: 2px;
+    }
+    @include mq-500 {
+        width: 30%;
+    }
+}
+
+
+
+button.submit {
+    margin-right: 5px;
+    @include mq-980 {
+        flex: 1 1 50%;
+        margin-top: 10px;
+    }
+}
+
+.skipToEvents {
+    text-align: center;
+    margin-left: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 3px;
+    @include mq-980 {
+        flex: 1 1 50%;
+        margin-top: 10px;
+    }
+    
+}
+
+.events {
+    text-align: left;
+    position: relative;
+    background: $offWhite;
+    .wrapper {
+        height: 100%;
+    }
+    h3 {
+        padding: 60px 0 0;
+        font-weight: 400;
+        letter-spacing: 1.5px;
+        position: relative;
+        z-index: 20;
+        font-size: 2.9rem;
+    }
+    ul {
+        padding-top: 10px;
+        height: 100%;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(auto-fill, 200px);
+        grid-gap: 30px 30px;
+        @include mq-980 {
+            grid-template-columns: repeat(2, 1fr);
+        }
+        @include mq-610 {
+            grid-template-columns: repeat(1, 1fr);
+        }
+    }
+    li {
+        color: white;
+        padding: 5px 10px;
+        font-size: 3rem;
+        font-weight: 700;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        &:hover {
+            text-decoration: underline;
+            color: $black;
+        }
+    }
+    h2 {
+        position: absolute;
+        font-size: 9rem;
+        z-index: 10;
+        color: darken($offWhite, 4%);
+        letter-spacing: 1.5px;
+    }
+    a {
+        background: $black;
+        border: 5px solid $red;
+        padding: 5px 10px;
+        padding: 30px 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 200px; 
+        &:hover {
+            background: $yellow;
+            color: $black;
+        }
+        &:active {
+            border: none;
+        }
+        &:focus {
+            border: dotted 6px $yellow;
+        }
+    }
+}
