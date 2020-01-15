@@ -1,0 +1,1439 @@
+{
+  "events" : {
+    "Aaron" : {
+      "eventName" : "Aaron",
+      "guests" : {
+        "dummy" : 0,
+        "guestList" : [ {
+          "ingredients" : [ {
+            "item" : "1 tbs Lemon Juice",
+            "recipeNumber" : "52891"
+          }, {
+            "item" : "600g Blackberrys",
+            "recipeNumber" : "52891"
+          }, {
+            "item" : "150g Plain Flour",
+            "recipeNumber" : "52891"
+          }, {
+            "item" : "125g Butter",
+            "recipeNumber" : "52891"
+          } ],
+          "name" : "Armenia"
+        }, {
+          "ingredients" : [ {
+            "item" : "1 finely sliced Onion",
+            "recipeNumber" : "52843"
+          }, {
+            "item" : "2 cloves minced Garlic",
+            "recipeNumber" : "52843"
+          }, {
+            "item" : "1 tblsp  Honey",
+            "recipeNumber" : "52843"
+          }, {
+            "item" : "2 tsp Red Wine Vinegar",
+            "recipeNumber" : "52870"
+          }, {
+            "item" : "100g  Sour Cream",
+            "recipeNumber" : "52870"
+          }, {
+            "item" : "Coriander for serving",
+            "recipeNumber" : "52870"
+          } ],
+          "name" : "Aaron"
+        }, {
+          "ingredients" : [ {
+            "item" : "100g  Apricot",
+            "recipeNumber" : "52843"
+          }, {
+            "item" : "1 medium chopped Butternut Squash",
+            "recipeNumber" : "52843"
+          }, {
+            "item" : "Steamed Couscous",
+            "recipeNumber" : "52843"
+          }, {
+            "item" : "50g Hazlenuts",
+            "recipeNumber" : "52891"
+          } ],
+          "name" : "Prashath"
+        }, {
+          "ingredients" : [ {
+            "item" : "½ tsp Baking Powder",
+            "recipeNumber" : "52891"
+          }, {
+            "item" : "2 tbs Caster Sugar",
+            "recipeNumber" : "52891"
+          }, {
+            "item" : "400g Prawns",
+            "recipeNumber" : "52946"
+          } ],
+          "name" : "Seth"
+        } ]
+      },
+      "recipes" : {
+        "Blackberry Fool" : {
+          "ingredients" : [ "50g Hazlenuts", "125g Butter", "150g Caster Sugar", "Grated Lemon", "150g Plain Flour", "½ tsp Baking Powder", "600g Blackberrys", "75g Sugar", "2 tbs Caster Sugar", "1 tbs Lemon Juice", "300ml  Double Cream", "100ml Yogurt", "Garnish with Mint" ],
+          "recipe" : {
+            "idMeal" : "52891",
+            "strArea" : "British",
+            "strCategory" : "Dessert",
+            "strIngredient1" : "Hazlenuts",
+            "strIngredient10" : "Lemon Juice",
+            "strIngredient11" : "Double Cream",
+            "strIngredient12" : "Yogurt",
+            "strIngredient13" : "Mint",
+            "strIngredient14" : "",
+            "strIngredient15" : "",
+            "strIngredient16" : "",
+            "strIngredient17" : "",
+            "strIngredient18" : "",
+            "strIngredient19" : "",
+            "strIngredient2" : "Butter",
+            "strIngredient20" : "",
+            "strIngredient3" : "Caster Sugar",
+            "strIngredient4" : "Lemon",
+            "strIngredient5" : "Plain Flour",
+            "strIngredient6" : "Baking Powder",
+            "strIngredient7" : "Blackberrys",
+            "strIngredient8" : "Sugar",
+            "strIngredient9" : "Caster Sugar",
+            "strInstructions" : "For the biscuits, preheat the oven to 200C/180C (fan)/Gas 6 and line two large baking trays with baking parchment. Scatter the nuts over a baking tray and roast in the oven for 6-8 minutes, or until golden-brown. Watch them carefully so that they don’t have a chance to burn. Remove from the oven, tip onto a board and leave to cool.\r\nPut the butter and sugar in a large bowl and beat with a wooden spoon until light and creamy. Roughly chop the cooled nuts and add to the creamed butter and sugar, along with the lemon zest, flour and baking powder. Stir well until the mixture comes together and forms a ball – you may need to use your hands.\r\nDivide the biscuit dough into 24 even pieces and roll into small balls. Place the balls the prepared baking trays, spaced well apart to allow for spreading.\r\nPress the biscuits to flatten to around 1cm/½in thick. Bake the biscuits, one tray at a time, for 12 minutes or until very pale golden-brown. Leave to cool on the trays. They will be very soft when you take them out of the oven, but will crisp as they cool.\r\nStore in an airtight tin and eat within five days.\r\nFor the fool, rinse the blackberries in a colander to wash away any dust or dirt. Put the blackberries in a non-stick saucepan and sprinkle over the caster sugar.\r\nStir in the lemon juice and heat gently for two minutes, or until the blackberries begin to soften and release their juices. Remove and reserve 12 blackberries for decoration and continue cooking the rest.\r\nSimmer the blackberries very gently for 15 minutes, stirring regularly until very soft and squidgy. Remove from the heat and press the berries and juice through a sieve over a bowl, using the bottom of a ladle to help you extract as much of the purée as possible. Leave the purée to cool and discard the seeds. You should end up with around 325ml/11fl oz of purée.\r\nPut the cream and yoghurt in a large bowl and whip with an electric whisk until soft peaks form when the whisk is removed from the bowl – the acidity of the fruit will thicken the cream further, so don’t take it too far.\r\nWhen the purée is completely cold, adjust the sweetness to taste by adding more sugar if needed. Pour it into the bowl with the whipped cream and yoghurt and stir just once or twice until very lightly combined.\r\nSpoon the blackberry fool into individual wide, glass dishes – or one large, single bowl. It should look quite marbled, so don’t over-stir it. Scatter a few tiny mint leaves on top and decorate with the reserved blackberries. Sprinkle with a little sugar if you like and serve with the hazelnut biscuits.",
+            "strMeal" : "Blackberry Fool",
+            "strMealThumb" : "https://www.themealdb.com/images/media/meals/rpvptu1511641092.jpg",
+            "strMeasure1" : "50g",
+            "strMeasure10" : "1 tbs",
+            "strMeasure11" : "300ml ",
+            "strMeasure12" : "100ml",
+            "strMeasure13" : "Garnish with",
+            "strMeasure14" : "",
+            "strMeasure15" : "",
+            "strMeasure16" : "",
+            "strMeasure17" : "",
+            "strMeasure18" : "",
+            "strMeasure19" : "",
+            "strMeasure2" : "125g",
+            "strMeasure20" : "",
+            "strMeasure3" : "150g",
+            "strMeasure4" : "Grated",
+            "strMeasure5" : "150g",
+            "strMeasure6" : "½ tsp",
+            "strMeasure7" : "600g",
+            "strMeasure8" : "75g",
+            "strMeasure9" : "2 tbs",
+            "strSource" : "https://www.bbc.co.uk/food/recipes/blackberry_fool_with_11859",
+            "strTags" : "Desert,Summer,Fruity,Dairy",
+            "strYoutube" : "https://www.youtube.com/watch?v=kniRGjDLFrQ"
+          }
+        },
+        "Chickpea Fajitas" : {
+          "ingredients" : [ "400g Chickpeas", "1 tblsp  Olive Oil", "pinch Paprika", "2 small cut chunks Tomatoes", "1 finely sliced Red Onions", "2 tsp Red Wine Vinegar", "1 Avocado", "Juice of 1 Lime", "Chopped Lime", "100g  Sour Cream", "2 tsp Harissa Spice", "4 Corn Tortillas", "Coriander for serving" ],
+          "recipe" : {
+            "idMeal" : "52870",
+            "strArea" : "Mexican",
+            "strCategory" : "Vegetarian",
+            "strIngredient1" : "Chickpeas",
+            "strIngredient10" : "Sour Cream",
+            "strIngredient11" : "Harissa Spice",
+            "strIngredient12" : "Corn Tortillas",
+            "strIngredient13" : "Coriander",
+            "strIngredient14" : "",
+            "strIngredient15" : "",
+            "strIngredient16" : "",
+            "strIngredient17" : "",
+            "strIngredient18" : "",
+            "strIngredient19" : "",
+            "strIngredient2" : "Olive Oil",
+            "strIngredient20" : "",
+            "strIngredient3" : "Paprika",
+            "strIngredient4" : "Tomatoes",
+            "strIngredient5" : "Red Onions",
+            "strIngredient6" : "Red Wine Vinegar",
+            "strIngredient7" : "Avocado",
+            "strIngredient8" : "Lime",
+            "strIngredient9" : "Lime",
+            "strInstructions" : "Heat oven to 200C/180C fan/gas 6 and line a baking tray with foil. Drain the chickpeas, pat dry and tip onto the prepared baking tray. Add the oil and paprika, toss to coat, then roast for 20-25 mins until browned and crisp, shaking halfway through cooking.\r\n\r\nMeanwhile, put the tomatoes and onion in a small bowl with the vinegar and set aside to pickle. Put the avocado in another bowl and mash with a fork, leaving some larger chunks. Stir in the lime juice and season well. Mix the soured cream with the harissa and set aside until ready to serve.\r\n\r\nHeat a griddle pan until nearly smoking. Add the tortillas , one at a time, charring each side until hot with griddle lines. \r\n\r\nPut everything on the table and build the fajitas : spread a little of the harissa cream over the tortilla, top with roasted chickpeas, guacamole, pickled salsa and coriander, if you like. Serve with the lime wedges for squeezing over.",
+            "strMeal" : "Chickpea Fajitas",
+            "strMealThumb" : "https://www.themealdb.com/images/media/meals/tvtxpq1511464705.jpg",
+            "strMeasure1" : "400g",
+            "strMeasure10" : "100g ",
+            "strMeasure11" : "2 tsp",
+            "strMeasure12" : "4",
+            "strMeasure13" : "to serve",
+            "strMeasure14" : "",
+            "strMeasure15" : "",
+            "strMeasure16" : "",
+            "strMeasure17" : "",
+            "strMeasure18" : "",
+            "strMeasure19" : "",
+            "strMeasure2" : "1 tblsp ",
+            "strMeasure20" : "",
+            "strMeasure3" : "pinch",
+            "strMeasure4" : "2 small cut chunks",
+            "strMeasure5" : "1 finely sliced",
+            "strMeasure6" : "2 tsp",
+            "strMeasure7" : "1",
+            "strMeasure8" : "Juice of 1",
+            "strMeasure9" : "Chopped",
+            "strSource" : "https://www.bbcgoodfood.com/recipes/chickpea-fajitas",
+            "strTags" : "Vegetarian",
+            "strYoutube" : "https://www.youtube.com/watch?v=LGY3V7EGpT0"
+          }
+        },
+        "Kung Po Prawns" : {
+          "ingredients" : [ "400g Prawns", "2 tbs Soy Sauce", "1 tsp  Tomato Puree", "1 tsp  Corn Flour", "1 tsp  Caster Sugar", "1 tsp  Sunflower Oil", "85g Peanuts", "3 Large Chilli", "1 tbs Brown Sugar", "6 cloves Garlic Clove", "450g Water Chestnut", "to taste Ginger" ],
+          "recipe" : {
+            "idMeal" : "52946",
+            "strArea" : "Chinese",
+            "strCategory" : "Seafood",
+            "strIngredient1" : "Prawns",
+            "strIngredient10" : "Garlic Clove",
+            "strIngredient11" : "Water Chestnut",
+            "strIngredient12" : "Ginger",
+            "strIngredient13" : "",
+            "strIngredient14" : "",
+            "strIngredient15" : "",
+            "strIngredient16" : "",
+            "strIngredient17" : "",
+            "strIngredient18" : "",
+            "strIngredient19" : "",
+            "strIngredient2" : "Soy Sauce",
+            "strIngredient20" : "",
+            "strIngredient3" : "Tomato Puree",
+            "strIngredient4" : "Corn Flour",
+            "strIngredient5" : "Caster Sugar",
+            "strIngredient6" : "Sunflower Oil",
+            "strIngredient7" : "Peanuts",
+            "strIngredient8" : "Chilli",
+            "strIngredient9" : "Brown Sugar",
+            "strInstructions" : "Mix the cornflour and 1 tbsp soy sauce, toss in the prawns and set aside for 10 mins. Stir the vinegar, remaining soy sauce, tomato purée, sugar and 2 tbsp water together to make a sauce.\r\n\r\nWhen you’re ready to cook, heat a large frying pan or wok until very hot, then add 1 tbsp oil. Fry the prawns until they are golden in places and have opened out– then tip them out of the pan.\r\n\r\nHeat the remaining oil and add the peanuts, chillies and water chestnuts. Stir-fry for 2 mins or until the peanuts start to colour, then add the ginger and garlic and fry for 1 more min. Tip in the prawns and sauce and simmer for 2 mins until thickened slightly. Serve with rice.",
+            "strMeal" : "Kung Po Prawns",
+            "strMealThumb" : "https://www.themealdb.com/images/media/meals/1525873040.jpg",
+            "strMeasure1" : "400g",
+            "strMeasure10" : "6 cloves",
+            "strMeasure11" : "450g",
+            "strMeasure12" : "to taste",
+            "strMeasure13" : "",
+            "strMeasure14" : "",
+            "strMeasure15" : "",
+            "strMeasure16" : "",
+            "strMeasure17" : "",
+            "strMeasure18" : "",
+            "strMeasure19" : "",
+            "strMeasure2" : "2 tbs",
+            "strMeasure20" : "",
+            "strMeasure3" : "1 tsp ",
+            "strMeasure4" : "1 tsp ",
+            "strMeasure5" : "1 tsp ",
+            "strMeasure6" : "1 tsp ",
+            "strMeasure7" : "85g",
+            "strMeasure8" : "3 Large",
+            "strMeasure9" : "1 tbs",
+            "strSource" : "https://www.bbcgoodfood.com/recipes/1415664/kung-po-prawns",
+            "strYoutube" : "https://www.youtube.com/watch?v=ysiuZm9FIxs"
+          }
+        },
+        "dummy" : 0
+      },
+      "unassignedIngredients" : [ {
+        "item" : "150g Caster Sugar",
+        "recipeNumber" : "52891"
+      }, {
+        "item" : "Grated Lemon",
+        "recipeNumber" : "52891"
+      }, {
+        "item" : "100ml Yogurt",
+        "recipeNumber" : "52891"
+      }, {
+        "item" : "Garnish with Mint",
+        "recipeNumber" : "52891"
+      }, {
+        "item" : "400g Chickpeas",
+        "recipeNumber" : "52870"
+      }, {
+        "item" : "1 tblsp  Olive Oil",
+        "recipeNumber" : "52870"
+      }, {
+        "item" : "pinch Paprika",
+        "recipeNumber" : "52870"
+      }, {
+        "item" : "2 small cut chunks Tomatoes",
+        "recipeNumber" : "52870"
+      }, {
+        "item" : "1 finely sliced Red Onions",
+        "recipeNumber" : "52870"
+      }, {
+        "item" : "1 Avocado",
+        "recipeNumber" : "52870"
+      }, {
+        "item" : "Juice of 1 Lime",
+        "recipeNumber" : "52870"
+      }, {
+        "item" : "Chopped Lime",
+        "recipeNumber" : "52870"
+      }, {
+        "item" : "2 tsp Harissa Spice",
+        "recipeNumber" : "52870"
+      }, {
+        "item" : "4 Corn Tortillas",
+        "recipeNumber" : "52870"
+      }, {
+        "item" : "1 tsp  Tomato Puree",
+        "recipeNumber" : "52946"
+      }, {
+        "item" : "1 tsp  Corn Flour",
+        "recipeNumber" : "52946"
+      }, {
+        "item" : "1 tsp  Caster Sugar",
+        "recipeNumber" : "52946"
+      }, {
+        "item" : "1 tsp  Sunflower Oil",
+        "recipeNumber" : "52946"
+      }, {
+        "item" : "85g Peanuts",
+        "recipeNumber" : "52946"
+      }, {
+        "item" : "3 Large Chilli",
+        "recipeNumber" : "52946"
+      }, {
+        "item" : "1 tbs Brown Sugar",
+        "recipeNumber" : "52946"
+      }, {
+        "item" : "6 cloves Garlic Clove",
+        "recipeNumber" : "52946"
+      }, {
+        "item" : "450g Water Chestnut",
+        "recipeNumber" : "52946"
+      }, {
+        "item" : "to taste Ginger",
+        "recipeNumber" : "52946"
+      }, {
+        "item" : "2 tbs Soy Sauce",
+        "recipeNumber" : "52946"
+      }, {
+        "item" : "75g Sugar",
+        "recipeNumber" : "52891"
+      }, {
+        "item" : "300ml  Double Cream",
+        "recipeNumber" : "52891"
+      } ]
+    },
+    
+    "Aristocats" : {
+      "eventName" : "Aristocats",
+      "guests" : {
+        "dummy" : 0,
+        "guestList" : [ {
+          "ingredients" : [ {
+            "item" : "75g/3oz ground almonds",
+            "recipeNumber" : "52768"
+          }, {
+            "item" : "1 tsp almond extract",
+            "recipeNumber" : "52768"
+          }, {
+            "item" : "50g/1¾oz flaked almonds",
+            "recipeNumber" : "52768"
+          }, {
+            "item" : "200g/7oz Bramley apples",
+            "recipeNumber" : "52768"
+          }, {
+            "item" : "75g/3oz butter, softened",
+            "recipeNumber" : "52768"
+          }, {
+            "item" : "175g/6oz digestive biscuits",
+            "recipeNumber" : "52768"
+          }, {
+            "item" : "75g/3oz caster sugar",
+            "recipeNumber" : "52768"
+          }, {
+            "item" : "75g/3oz butter, softened",
+            "recipeNumber" : "52768"
+          } ],
+          "name" : "Bill"
+        }, {
+          "ingredients" : [ {
+            "item" : "75g/3oz caster sugar",
+            "recipeNumber" : "52768"
+          }, {
+            "item" : "75g/3oz butter, softened",
+            "recipeNumber" : "52768"
+          } ],
+          "name" : "Craig"
+        }, {
+          "name" : "John"
+        } ]
+      },
+      "recipes" : {
+        "Apple Frangipan Tart" : {
+          "ingredients" : [ "175g/6oz digestive biscuits", "75g/3oz butter", "200g/7oz Bramley apples", "75g/3oz butter, softened", "75g/3oz caster sugar", "2 free-range eggs, beaten", "75g/3oz ground almonds", "1 tsp almond extract", "50g/1¾oz flaked almonds" ],
+          "recipe" : {
+            "idMeal" : "52768",
+            "strArea" : "British",
+            "strCategory" : "Dessert",
+            "strIngredient1" : "digestive biscuits",
+            "strIngredient10" : "",
+            "strIngredient11" : "",
+            "strIngredient12" : "",
+            "strIngredient13" : "",
+            "strIngredient14" : "",
+            "strIngredient15" : "",
+            "strIngredient2" : "butter",
+            "strIngredient3" : "Bramley apples",
+            "strIngredient4" : "butter, softened",
+            "strIngredient5" : "caster sugar",
+            "strIngredient6" : "free-range eggs, beaten",
+            "strIngredient7" : "ground almonds",
+            "strIngredient8" : "almond extract",
+            "strIngredient9" : "flaked almonds",
+            "strInstructions" : "Preheat the oven to 200C/180C Fan/Gas 6.\r\nPut the biscuits in a large re-sealable freezer bag and bash with a rolling pin into fine crumbs. Melt the butter in a small pan, then add the biscuit crumbs and stir until coated with butter. Tip into the tart tin and, using the back of a spoon, press over the base and sides of the tin to give an even layer. Chill in the fridge while you make the filling.\r\nCream together the butter and sugar until light and fluffy. You can do this in a food processor if you have one. Process for 2-3 minutes. Mix in the eggs, then add the ground almonds and almond extract and blend until well combined.\r\nPeel the apples, and cut thin slices of apple. Do this at the last minute to prevent the apple going brown. Arrange the slices over the biscuit base. Spread the frangipane filling evenly on top. Level the surface and sprinkle with the flaked almonds.\r\nBake for 20-25 minutes until golden-brown and set.\r\nRemove from the oven and leave to cool for 15 minutes. Remove the sides of the tin. An easy way to do this is to stand the tin on a can of beans and push down gently on the edges of the tin.\r\nTransfer the tart, with the tin base attached, to a serving plate. Serve warm with cream, crème fraiche or ice cream.",
+            "strMeal" : "Apple Frangipan Tart",
+            "strMealThumb" : "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg",
+            "strMeasure1" : "175g/6oz",
+            "strMeasure10" : "",
+            "strMeasure11" : "",
+            "strMeasure12" : "",
+            "strMeasure13" : "",
+            "strMeasure14" : "",
+            "strMeasure15" : "",
+            "strMeasure2" : "75g/3oz",
+            "strMeasure3" : "200g/7oz",
+            "strMeasure4" : "75g/3oz",
+            "strMeasure5" : "75g/3oz",
+            "strMeasure6" : "2",
+            "strMeasure7" : "75g/3oz",
+            "strMeasure8" : "1 tsp",
+            "strMeasure9" : "50g/1¾oz",
+            "strTags" : "Tart,Baking,Fruity",
+            "strYoutube" : "https://www.youtube.com/watch?v=rp8Slv4INLk"
+          }
+        },
+        "Kumpir" : {
+          "ingredients" : [ "2 large Potatoes", "2 tbs Butter", "150g Cheese", "1 large Onion", "1 large Red Pepper", "Pinch Red Chile Flakes", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " " ],
+          "recipe" : {
+            "idMeal" : "52978",
+            "strArea" : "Turkish",
+            "strCategory" : "Side",
+            "strIngredient1" : "Potatoes",
+            "strIngredient10" : "",
+            "strIngredient11" : "",
+            "strIngredient12" : "",
+            "strIngredient13" : "",
+            "strIngredient14" : "",
+            "strIngredient15" : "",
+            "strIngredient16" : "",
+            "strIngredient17" : "",
+            "strIngredient18" : "",
+            "strIngredient19" : "",
+            "strIngredient2" : "Butter",
+            "strIngredient20" : "",
+            "strIngredient3" : "Cheese",
+            "strIngredient4" : "Onion",
+            "strIngredient5" : "Red Pepper",
+            "strIngredient6" : "Red Chile Flakes",
+            "strIngredient7" : "",
+            "strIngredient8" : "",
+            "strIngredient9" : "",
+            "strInstructions" : "If you order kumpir in Turkey, the standard filling is first, lots of butter mashed into the potato, followed by cheese. There’s then a row of other toppings that you can just point at to your heart’s content – sweetcorn, olives, salami, coleslaw, Russian salad, allsorts – and you walk away with an over-stuffed potato because you got ever-excited by the choices on offer.\r\n\r\nGrate (roughly – you can use as much as you like) 150g of cheese.\r\nFinely chop one onion and one sweet red pepper.\r\nPut these ingredients into a large bowl with a good sprinkling of salt and pepper, chilli flakes (optional).",
+            "strMeal" : "Kumpir",
+            "strMealThumb" : "https://www.themealdb.com/images/media/meals/mlchx21564916997.jpg",
+            "strMeasure1" : "2 large",
+            "strMeasure10" : " ",
+            "strMeasure11" : " ",
+            "strMeasure12" : " ",
+            "strMeasure13" : " ",
+            "strMeasure14" : " ",
+            "strMeasure15" : " ",
+            "strMeasure16" : " ",
+            "strMeasure17" : " ",
+            "strMeasure18" : " ",
+            "strMeasure19" : " ",
+            "strMeasure2" : "2 tbs",
+            "strMeasure20" : " ",
+            "strMeasure3" : "150g",
+            "strMeasure4" : "1 large",
+            "strMeasure5" : "1 large",
+            "strMeasure6" : "Pinch",
+            "strMeasure7" : " ",
+            "strMeasure8" : " ",
+            "strMeasure9" : " ",
+            "strSource" : "http://www.turkeysforlife.com/2013/10/firinda-kumpir-turkish-street-food.html",
+            "strTags" : "SideDish",
+            "strYoutube" : "https://www.youtube.com/watch?v=IEDEtZ4UVtI"
+          }
+        },
+        "dummy" : 0
+      },
+      "unassignedIngredients" : [ {
+        "item" : "75g/3oz butter",
+        "recipeNumber" : "52768"
+      }, {
+        "item" : "2 free-range eggs, beaten",
+        "recipeNumber" : "52768"
+      }, {
+        "item" : "75g/3oz ground almonds",
+        "recipeNumber" : "52768"
+      }, {
+        "item" : "1 tsp almond extract",
+        "recipeNumber" : "52768"
+      }, {
+        "item" : "50g/1¾oz flaked almonds",
+        "recipeNumber" : "52768"
+      }, {
+        "item" : "175g/6oz digestive biscuits",
+        "recipeNumber" : "52768"
+      }, {
+        "item" : "75g/3oz butter",
+        "recipeNumber" : "52768"
+      }, {
+        "item" : "200g/7oz Bramley apples",
+        "recipeNumber" : "52768"
+      }, {
+        "item" : "2 free-range eggs, beaten",
+        "recipeNumber" : "52768"
+      }, {
+        "item" : "75g/3oz butter",
+        "recipeNumber" : "52768"
+      }, {
+        "item" : "75g/3oz caster sugar",
+        "recipeNumber" : "52768"
+      }, {
+        "item" : "2 free-range eggs, beaten",
+        "recipeNumber" : "52768"
+      }, {
+        "item" : "75g/3oz ground almonds",
+        "recipeNumber" : "52768"
+      }, {
+        "item" : "1 tsp almond extract",
+        "recipeNumber" : "52768"
+      }, {
+        "item" : "50g/1¾oz flaked almonds",
+        "recipeNumber" : "52768"
+      }, {
+        "item" : "2 large Potatoes",
+        "recipeNumber" : "52978"
+      }, {
+        "item" : "2 tbs Butter",
+        "recipeNumber" : "52978"
+      }, {
+        "item" : "150g Cheese",
+        "recipeNumber" : "52978"
+      }, {
+        "item" : "1 large Onion",
+        "recipeNumber" : "52978"
+      }, {
+        "item" : "1 large Red Pepper",
+        "recipeNumber" : "52978"
+      }, {
+        "item" : "Pinch Red Chile Flakes",
+        "recipeNumber" : "52978"
+      }, {
+        "item" : " ",
+        "recipeNumber" : "52978"
+      }, {
+        "item" : " ",
+        "recipeNumber" : "52978"
+      }, {
+        "item" : " ",
+        "recipeNumber" : "52978"
+      }, {
+        "item" : " ",
+        "recipeNumber" : "52978"
+      }, {
+        "item" : " ",
+        "recipeNumber" : "52978"
+      }, {
+        "item" : " ",
+        "recipeNumber" : "52978"
+      }, {
+        "item" : " ",
+        "recipeNumber" : "52978"
+      }, {
+        "item" : " ",
+        "recipeNumber" : "52978"
+      }, {
+        "item" : " ",
+        "recipeNumber" : "52978"
+      }, {
+        "item" : " ",
+        "recipeNumber" : "52978"
+      }, {
+        "item" : " ",
+        "recipeNumber" : "52978"
+      }, {
+        "item" : " ",
+        "recipeNumber" : "52978"
+      }, {
+        "item" : " ",
+        "recipeNumber" : "52978"
+      }, {
+        "item" : " ",
+        "recipeNumber" : "52978"
+      }, {
+        "item" : "175g/6oz digestive biscuits",
+        "recipeNumber" : "52768"
+      }, {
+        "item" : "200g/7oz Bramley apples",
+        "recipeNumber" : "52768"
+      } ]
+    },
+    "SETH" : {
+      "eventName" : "SETH",
+      "guests" : {
+        "dummy" : 0,
+        "guestList" : [ {
+          "ingredients" : [ {
+            "item" : "1 tbls Tomato Puree",
+            "recipeNumber" : "52837"
+          }, {
+            "item" : "200g Sugar Snap Peas",
+            "recipeNumber" : "52839"
+          }, {
+            "item" : "70g Black Olives",
+            "recipeNumber" : "52837"
+          } ],
+          "name" : "FRANCIS"
+        } ]
+      },
+      "recipes" : {
+        "Chilli prawn linguine" : {
+          "ingredients" : [ "280g Linguine Pasta", "200g Sugar Snap Peas", "2 tblsp  Olive Oil", "2 cloves chopped Garlic Clove", "1 large Red Chilli", "24 Skinned King Prawns", "12 Cherry Tomatoes", "Handful Basil Leaves", "Leaves Lettuce", "Bread for serving", "2 tbsp Fromage Frais", "Grated Zest of 2 Lime", "2 tsp Caster Sugar" ],
+          "recipe" : {
+            "idMeal" : "52839",
+            "strArea" : "Italian",
+            "strCategory" : "Pasta",
+            "strIngredient1" : "Linguine Pasta",
+            "strIngredient10" : "Bread",
+            "strIngredient11" : "Fromage Frais",
+            "strIngredient12" : "Lime",
+            "strIngredient13" : "Caster Sugar",
+            "strIngredient14" : "",
+            "strIngredient15" : "",
+            "strIngredient16" : "",
+            "strIngredient17" : "",
+            "strIngredient18" : "",
+            "strIngredient19" : "",
+            "strIngredient2" : "Sugar Snap Peas",
+            "strIngredient20" : "",
+            "strIngredient3" : "Olive Oil",
+            "strIngredient4" : "Garlic Clove",
+            "strIngredient5" : "Red Chilli",
+            "strIngredient6" : "King Prawns",
+            "strIngredient7" : "Cherry Tomatoes",
+            "strIngredient8" : "Basil Leaves",
+            "strIngredient9" : "Lettuce",
+            "strInstructions" : "Mix the dressing ingredients in a small bowl and season with salt and pepper. Set aside.\r\n\r\nCook the pasta according to the packet instructions. Add the sugar snap peas for the last minute or so of cooking time.\r\n\r\nMeanwhile, heat the oil in a wok or large frying pan, toss in the garlic and chilli and cook over a fairly gentle heat for about 30 seconds without letting the garlic brown. Tip in the prawns and cook over a high heat, stirring frequently, for about 3 minutes until they turn pink.\r\n\r\nAdd the tomatoes and cook, stirring occasionally, for 3 minutes until they just start to soften. Drain the pasta and sugar snaps well, then toss into the prawn mixture. Tear in the basil leaves, stir, and season with salt and pepper.\r\n\r\nServe with salad leaves drizzled with the lime dressing, and warm crusty bread.",
+            "strMeal" : "Chilli prawn linguine",
+            "strMealThumb" : "https://www.themealdb.com/images/media/meals/usywpp1511189717.jpg",
+            "strMeasure1" : "280g",
+            "strMeasure10" : "to serve",
+            "strMeasure11" : "2 tbsp",
+            "strMeasure12" : "Grated Zest of 2",
+            "strMeasure13" : "2 tsp",
+            "strMeasure14" : "",
+            "strMeasure15" : "",
+            "strMeasure16" : "",
+            "strMeasure17" : "",
+            "strMeasure18" : "",
+            "strMeasure19" : "",
+            "strMeasure2" : "200g",
+            "strMeasure20" : "",
+            "strMeasure3" : "2 tblsp ",
+            "strMeasure4" : "2 cloves chopped",
+            "strMeasure5" : "1 large",
+            "strMeasure6" : "24 Skinned",
+            "strMeasure7" : "12",
+            "strMeasure8" : "Handful",
+            "strMeasure9" : "Leaves",
+            "strSource" : "https://www.bbcgoodfood.com/recipes/1269/chilli-prawn-linguine",
+            "strYoutube" : "https://www.youtube.com/watch?v=SC17Mc70Db0"
+          }
+        },
+        "Pilchard puttanesca" : {
+          "ingredients" : [ "300g Spaghetti", "1 tbls Olive Oil", "1 finely chopped  Onion", "2 cloves minced Garlic", "1 Red Chilli", "1 tbls Tomato Puree", "425g Pilchards", "70g Black Olives", "Shaved Parmesan" ],
+          "recipe" : {
+            "idMeal" : "52837",
+            "strArea" : "Italian",
+            "strCategory" : "Pasta",
+            "strIngredient1" : "Spaghetti",
+            "strIngredient10" : "",
+            "strIngredient11" : "",
+            "strIngredient12" : "",
+            "strIngredient13" : "",
+            "strIngredient14" : "",
+            "strIngredient15" : "",
+            "strIngredient16" : "",
+            "strIngredient17" : "",
+            "strIngredient18" : "",
+            "strIngredient19" : "",
+            "strIngredient2" : "Olive Oil",
+            "strIngredient20" : "",
+            "strIngredient3" : "Onion",
+            "strIngredient4" : "Garlic",
+            "strIngredient5" : "Red Chilli",
+            "strIngredient6" : "Tomato Puree",
+            "strIngredient7" : "Pilchards",
+            "strIngredient8" : "Black Olives",
+            "strIngredient9" : "Parmesan",
+            "strInstructions" : "Cook the pasta following pack instructions. Heat the oil in a non-stick frying pan and cook the onion, garlic and chilli for 3-4 mins to soften. Stir in the tomato purée and cook for 1 min, then add the pilchards with their sauce. Cook, breaking up the fish with a wooden spoon, then add the olives and continue to cook for a few more mins.\r\n\r\nDrain the pasta and add to the pan with 2-3 tbsp of the cooking water. Toss everything together well, then divide between plates and serve, scattered with Parmesan.",
+            "strMeal" : "Pilchard puttanesca",
+            "strMealThumb" : "https://www.themealdb.com/images/media/meals/vvtvtr1511180578.jpg",
+            "strMeasure1" : "300g",
+            "strMeasure10" : "",
+            "strMeasure11" : "",
+            "strMeasure12" : "",
+            "strMeasure13" : "",
+            "strMeasure14" : "",
+            "strMeasure15" : "",
+            "strMeasure16" : "",
+            "strMeasure17" : "",
+            "strMeasure18" : "",
+            "strMeasure19" : "",
+            "strMeasure2" : "1 tbls",
+            "strMeasure20" : "",
+            "strMeasure3" : "1 finely chopped ",
+            "strMeasure4" : "2 cloves minced",
+            "strMeasure5" : "1",
+            "strMeasure6" : "1 tbls",
+            "strMeasure7" : "425g",
+            "strMeasure8" : "70g",
+            "strMeasure9" : "Shaved",
+            "strSource" : "https://www.bbcgoodfood.com/recipes/pilchard-puttanesca",
+            "strYoutube" : "https://www.youtube.com/watch?v=wqZzLAPmr9k"
+          }
+        },
+        "dummy" : 0
+      },
+      "unassignedIngredients" : [ {
+        "item" : "300g Spaghetti",
+        "recipeNumber" : "52837"
+      }, {
+        "item" : "1 tbls Olive Oil",
+        "recipeNumber" : "52837"
+      }, {
+        "item" : "1 finely chopped  Onion",
+        "recipeNumber" : "52837"
+      }, {
+        "item" : "2 cloves minced Garlic",
+        "recipeNumber" : "52837"
+      }, {
+        "item" : "1 Red Chilli",
+        "recipeNumber" : "52837"
+      }, {
+        "item" : "425g Pilchards",
+        "recipeNumber" : "52837"
+      }, {
+        "item" : "280g Linguine Pasta",
+        "recipeNumber" : "52839"
+      }, {
+        "item" : "2 cloves chopped Garlic Clove",
+        "recipeNumber" : "52839"
+      }, {
+        "item" : "24 Skinned King Prawns",
+        "recipeNumber" : "52839"
+      }, {
+        "item" : "12 Cherry Tomatoes",
+        "recipeNumber" : "52839"
+      }, {
+        "item" : "Handful Basil Leaves",
+        "recipeNumber" : "52839"
+      }, {
+        "item" : "Leaves Lettuce",
+        "recipeNumber" : "52839"
+      }, {
+        "item" : "Bread for serving",
+        "recipeNumber" : "52839"
+      }, {
+        "item" : "2 tbsp Fromage Frais",
+        "recipeNumber" : "52839"
+      }, {
+        "item" : "Grated Zest of 2 Lime",
+        "recipeNumber" : "52839"
+      }, {
+        "item" : "2 tsp Caster Sugar",
+        "recipeNumber" : "52839"
+      } ]
+    },
+    "Shinook" : {
+      "eventName" : "Shinook",
+      "guests" : {
+        "dummy" : 0
+      },
+      "recipes" : {
+        "dummy" : 0
+      },
+      "unassignedIngredients" : [ "dummy" ]
+    },
+    "Team" : {
+      "eventName" : "Team",
+      "guests" : {
+        "dummy" : 0,
+        "guestList" : [ {
+          "ingredients" : [ {
+            "item" : "200g Raspberries",
+            "recipeNumber" : "52860"
+          }, {
+            "item" : "2 tsp Red Wine Vinegar",
+            "recipeNumber" : "52870"
+          }, {
+            "item" : "140g Plain Flour",
+            "recipeNumber" : "52860"
+          } ],
+          "name" : "Prashath"
+        }, {
+          "ingredients" : [ {
+            "item" : "1 Avocado",
+            "recipeNumber" : "52870"
+          }, {
+            "item" : "1 finely sliced Red Onions",
+            "recipeNumber" : "52870"
+          } ],
+          "name" : "Aaron"
+        }, {
+          "name" : "Armenia"
+        }, {
+          "name" : "Seth"
+        } ]
+      },
+      "recipes" : {
+        "Chickpea Fajitas" : {
+          "ingredients" : [ "400g Chickpeas", "1 tblsp  Olive Oil", "pinch Paprika", "2 small cut chunks Tomatoes", "1 finely sliced Red Onions", "2 tsp Red Wine Vinegar", "1 Avocado", "Juice of 1 Lime", "Chopped Lime", "100g  Sour Cream", "2 tsp Harissa Spice", "4 Corn Tortillas", "Coriander for serving" ],
+          "recipe" : {
+            "idMeal" : "52870",
+            "strArea" : "Mexican",
+            "strCategory" : "Vegetarian",
+            "strIngredient1" : "Chickpeas",
+            "strIngredient10" : "Sour Cream",
+            "strIngredient11" : "Harissa Spice",
+            "strIngredient12" : "Corn Tortillas",
+            "strIngredient13" : "Coriander",
+            "strIngredient14" : "",
+            "strIngredient15" : "",
+            "strIngredient16" : "",
+            "strIngredient17" : "",
+            "strIngredient18" : "",
+            "strIngredient19" : "",
+            "strIngredient2" : "Olive Oil",
+            "strIngredient20" : "",
+            "strIngredient3" : "Paprika",
+            "strIngredient4" : "Tomatoes",
+            "strIngredient5" : "Red Onions",
+            "strIngredient6" : "Red Wine Vinegar",
+            "strIngredient7" : "Avocado",
+            "strIngredient8" : "Lime",
+            "strIngredient9" : "Lime",
+            "strInstructions" : "Heat oven to 200C/180C fan/gas 6 and line a baking tray with foil. Drain the chickpeas, pat dry and tip onto the prepared baking tray. Add the oil and paprika, toss to coat, then roast for 20-25 mins until browned and crisp, shaking halfway through cooking.\r\n\r\nMeanwhile, put the tomatoes and onion in a small bowl with the vinegar and set aside to pickle. Put the avocado in another bowl and mash with a fork, leaving some larger chunks. Stir in the lime juice and season well. Mix the soured cream with the harissa and set aside until ready to serve.\r\n\r\nHeat a griddle pan until nearly smoking. Add the tortillas , one at a time, charring each side until hot with griddle lines. \r\n\r\nPut everything on the table and build the fajitas : spread a little of the harissa cream over the tortilla, top with roasted chickpeas, guacamole, pickled salsa and coriander, if you like. Serve with the lime wedges for squeezing over.",
+            "strMeal" : "Chickpea Fajitas",
+            "strMealThumb" : "https://www.themealdb.com/images/media/meals/tvtxpq1511464705.jpg",
+            "strMeasure1" : "400g",
+            "strMeasure10" : "100g ",
+            "strMeasure11" : "2 tsp",
+            "strMeasure12" : "4",
+            "strMeasure13" : "to serve",
+            "strMeasure14" : "",
+            "strMeasure15" : "",
+            "strMeasure16" : "",
+            "strMeasure17" : "",
+            "strMeasure18" : "",
+            "strMeasure19" : "",
+            "strMeasure2" : "1 tblsp ",
+            "strMeasure20" : "",
+            "strMeasure3" : "pinch",
+            "strMeasure4" : "2 small cut chunks",
+            "strMeasure5" : "1 finely sliced",
+            "strMeasure6" : "2 tsp",
+            "strMeasure7" : "1",
+            "strMeasure8" : "Juice of 1",
+            "strMeasure9" : "Chopped",
+            "strSource" : "https://www.bbcgoodfood.com/recipes/chickpea-fajitas",
+            "strTags" : "Vegetarian",
+            "strYoutube" : "https://www.youtube.com/watch?v=LGY3V7EGpT0"
+          }
+        },
+        "dummy" : 0
+      },
+      "unassignedIngredients" : [ {
+        "item" : "400g Chickpeas",
+        "recipeNumber" : "52870"
+      }, {
+        "item" : "1 tblsp  Olive Oil",
+        "recipeNumber" : "52870"
+      }, {
+        "item" : "pinch Paprika",
+        "recipeNumber" : "52870"
+      }, {
+        "item" : "2 small cut chunks Tomatoes",
+        "recipeNumber" : "52870"
+      }, {
+        "item" : "Chopped Lime",
+        "recipeNumber" : "52870"
+      }, {
+        "item" : "100g  Sour Cream",
+        "recipeNumber" : "52870"
+      }, {
+        "item" : "2 tsp Harissa Spice",
+        "recipeNumber" : "52870"
+      }, {
+        "item" : "4 Corn Tortillas",
+        "recipeNumber" : "52870"
+      }, {
+        "item" : "Coriander for serving",
+        "recipeNumber" : "52870"
+      }, {
+        "item" : "Juice of 1 Lime",
+        "recipeNumber" : "52870"
+      } ]
+    },
+    "The Dog" : {
+      "eventName" : "The Dog",
+      "guests" : {
+        "dummy" : 0,
+        "guestList" : [ null, {
+          "ingredients" : [ {
+            "item" : "1 1/2 cups  Flour",
+            "recipeNumber" : "52813"
+          }, {
+            "item" : "1 whole Chicken",
+            "recipeNumber" : "52813"
+          } ],
+          "name" : "Lex"
+        }, {
+          "ingredients" : [ {
+            "item" : "1 tablespoon Brown Sugar",
+            "recipeNumber" : "52813"
+          }, {
+            "item" : "1 tablespoon paprika",
+            "recipeNumber" : "52813"
+          }, {
+            "item" : "2 teaspoons onion salt",
+            "recipeNumber" : "52813"
+          }, {
+            "item" : "1 teaspoon chili powder",
+            "recipeNumber" : "52813"
+          } ],
+          "name" : "Dug"
+        }, {
+          "ingredients" : [ {
+            "item" : "1/2 teaspoon celery salt",
+            "recipeNumber" : "52813"
+          }, {
+            "item" : "1/2 teaspoon basil",
+            "recipeNumber" : "52813"
+          }, {
+            "item" : "1 thinly sliced Red Pepper",
+            "recipeNumber" : "52942"
+          }, {
+            "item" : "1 medium Courgettes",
+            "recipeNumber" : "52942"
+          } ],
+          "name" : "Bambi"
+        }, {
+          "ingredients" : [ {
+            "item" : "100g  Frozen Peas",
+            "recipeNumber" : "52942"
+          }, {
+            "item" : "200ml White Wine",
+            "recipeNumber" : "52942"
+          }, {
+            "item" : "700ml Vegetable Stock",
+            "recipeNumber" : "52942"
+          }, {
+            "item" : "1 chopped Lemon",
+            "recipeNumber" : "52942"
+          }, {
+            "item" : "Handful Parsley",
+            "recipeNumber" : "52942"
+          } ],
+          "name" : "Trixie"
+        } ]
+      },
+      "recipes" : {
+        "Duck Confit" : {
+          "ingredients" : [ "Handful Sea Salt", "4 Bay Leaf", "4 cloves Garlic", "Handful Thyme", "4 Duck Legs", "100ml White Wine" ],
+          "recipe" : {
+            "idMeal" : "52907",
+            "strArea" : "French",
+            "strCategory" : "Miscellaneous",
+            "strIngredient1" : "Sea Salt",
+            "strIngredient10" : "",
+            "strIngredient11" : "",
+            "strIngredient12" : "",
+            "strIngredient13" : "",
+            "strIngredient14" : "",
+            "strIngredient15" : "",
+            "strIngredient16" : "",
+            "strIngredient17" : "",
+            "strIngredient18" : "",
+            "strIngredient19" : "",
+            "strIngredient2" : "Bay Leaf",
+            "strIngredient20" : "",
+            "strIngredient3" : "Garlic",
+            "strIngredient4" : "Thyme",
+            "strIngredient5" : "Duck Legs",
+            "strIngredient6" : "White Wine",
+            "strIngredient7" : "",
+            "strIngredient8" : "",
+            "strIngredient9" : "",
+            "strInstructions" : "The day before you want to make the dish, scatter half the salt, half the garlic and half of the herbs over the base of a small shallow dish. Lay the duck legs, skin-side up, on top, then scatter over the remaining salt, garlic and herbs. Cover the duck and refrigerate overnight. This can be done up to 2 days ahead.\r\nPour the wine into a saucepan that will snugly fit the duck legs in a single layer. Brush the salt off the duck legs and place them, skin-side down, in the wine. Cover the pan with a lid and place over a medium heat. As soon as the wine starts to bubble, turn the heat down to the lowest setting and cook for 2 hours, checking occasionally that the liquid is just barely simmering. (If you own a heat diffuser, it would be good to use it here.) After 2 hours, the duck legs should be submerged in their own fat and the meat should feel incredibly tender when prodded. Leave to cool.\r\nThe duck legs are now cooked and can be eaten immediately – or you can follow the next step if you like them crisp. If you are preparing ahead, pack the duck legs tightly into a plastic container or jar and pour over the fat, but not the liquid at the bottom of the pan. Cover and leave in the fridge for up to a month, or freeze for up to 3 months. The liquid you are left with makes a tasty gravy, which can be chilled or frozen until needed.\r\nTo reheat and crisp up the duck legs, heat oven to 220C/fan 200C/gas 7. Remove the legs from the fat and place them, skin-side down, in an ovenproof frying pan. Roast for 30-40 mins, turning halfway through, until brown and crisp. Serve with the reheated gravy, a crisp salad and some crisp golden ptoatoes.",
+            "strMeal" : "Duck Confit",
+            "strMealThumb" : "https://www.themealdb.com/images/media/meals/wvpvsu1511786158.jpg",
+            "strMeasure1" : "Handful",
+            "strMeasure10" : "",
+            "strMeasure11" : "",
+            "strMeasure12" : "",
+            "strMeasure13" : "",
+            "strMeasure14" : "",
+            "strMeasure15" : "",
+            "strMeasure16" : "",
+            "strMeasure17" : "",
+            "strMeasure18" : "",
+            "strMeasure19" : "",
+            "strMeasure2" : "4",
+            "strMeasure20" : "",
+            "strMeasure3" : "4 cloves",
+            "strMeasure4" : "Handful",
+            "strMeasure5" : "4",
+            "strMeasure6" : "100ml",
+            "strMeasure7" : "",
+            "strMeasure8" : "",
+            "strMeasure9" : "",
+            "strSource" : "https://www.bbcgoodfood.com/recipes/2085/barneys-confit-of-duck",
+            "strYoutube" : "https://www.youtube.com/watch?v=MHhLJqghY-o"
+          }
+        },
+        "Kentucky Fried Chicken" : {
+          "ingredients" : [ "1 whole Chicken", "2 quarts neutral frying Oil", "1 Egg White", "1 1/2 cups  Flour", "1 tablespoon Brown Sugar", "1 tablespoon Salt", "1 tablespoon paprika", "2 teaspoons onion salt", "1 teaspoon chili powder", "1 teaspoon black pepper", "1/2 teaspoon celery salt", "1/2 teaspoon sage", "1/2 teaspoon garlic powder", "1/2 teaspoon allspice", "1/2 teaspoon oregano", "1/2 teaspoon basil", "1/2 teaspoon marjoram" ],
+          "recipe" : {
+            "idMeal" : "52813",
+            "strArea" : "American",
+            "strCategory" : "Chicken",
+            "strIngredient1" : "Chicken",
+            "strIngredient10" : "black pepper",
+            "strIngredient11" : "celery salt",
+            "strIngredient12" : "sage",
+            "strIngredient13" : "garlic powder",
+            "strIngredient14" : "allspice",
+            "strIngredient15" : "oregano",
+            "strIngredient16" : "basil",
+            "strIngredient17" : "marjoram",
+            "strIngredient18" : "",
+            "strIngredient19" : "",
+            "strIngredient2" : "Oil",
+            "strIngredient20" : "",
+            "strIngredient3" : "Egg White",
+            "strIngredient4" : "Flour",
+            "strIngredient5" : "Brown Sugar",
+            "strIngredient6" : "Salt",
+            "strIngredient7" : "paprika",
+            "strIngredient8" : "onion salt",
+            "strIngredient9" : "chili powder",
+            "strInstructions" : "Preheat fryer to 350°F. Thoroughly mix together all the spice mix ingredients.\r\nCombine spice mix with flour, brown sugar and salt.\r\nDip chicken pieces in egg white to lightly coat them, then transfer to flour mixture. Turn a few times and make sure the flour mix is really stuck to the chicken. Repeat with all the chicken pieces.\r\nLet chicken pieces rest for 5 minutes so crust has a chance to dry a bit.\r\nFry chicken in batches. Breasts and wings should take 12-14 minutes, and legs and thighs will need a few more minutes. Chicken pieces are done when a meat thermometer inserted into the thickest part reads 165°F.\r\nLet chicken drain on a few paper towels when it comes out of the fryer. Serve hot.",
+            "strMeal" : "Kentucky Fried Chicken",
+            "strMealThumb" : "https://www.themealdb.com/images/media/meals/xqusqy1487348868.jpg",
+            "strMeasure1" : "1 whole",
+            "strMeasure10" : "1 teaspoon",
+            "strMeasure11" : "1/2 teaspoon",
+            "strMeasure12" : "1/2 teaspoon",
+            "strMeasure13" : "1/2 teaspoon",
+            "strMeasure14" : "1/2 teaspoon",
+            "strMeasure15" : "1/2 teaspoon",
+            "strMeasure16" : "1/2 teaspoon",
+            "strMeasure17" : "1/2 teaspoon",
+            "strMeasure18" : "",
+            "strMeasure19" : "",
+            "strMeasure2" : "2 quarts neutral frying",
+            "strMeasure20" : "",
+            "strMeasure3" : "1",
+            "strMeasure4" : "1 1/2 cups ",
+            "strMeasure5" : "1 tablespoon",
+            "strMeasure6" : "1 tablespoon",
+            "strMeasure7" : "1 tablespoon",
+            "strMeasure8" : "2 teaspoons",
+            "strMeasure9" : "1 teaspoon",
+            "strSource" : "http://www.tablespoon.com/recipes/copycat-kfc-original-style-chicken/97c93d14-9d8c-4bc7-96dc-1e0b37e4fcaa",
+            "strTags" : "Meat,Spicy",
+            "strYoutube" : "https://www.youtube.com/watch?v=PTUxCvCz8Bc"
+          }
+        },
+        "Roast fennel and aubergine paella" : {
+          "ingredients" : [ "6 small Baby Aubergine", "4 small Fennel", "1 thinly sliced Red Pepper", "1 medium Courgettes", "1 finely chopped  Onion", "300g Paella Rice", "1 tsp  Paprika", "pinch Saffron", "200ml White Wine", "700ml Vegetable Stock", "100g  Frozen Peas", "1 chopped Lemon", "Handful Parsley", "pinch Salt", "pinch Black Pepper" ],
+          "recipe" : {
+            "idMeal" : "52942",
+            "strArea" : "Spanish",
+            "strCategory" : "Vegan",
+            "strIngredient1" : "Baby Aubergine",
+            "strIngredient10" : "Vegetable Stock",
+            "strIngredient11" : "Frozen Peas",
+            "strIngredient12" : "Lemon",
+            "strIngredient13" : "Parsley",
+            "strIngredient14" : "Salt",
+            "strIngredient15" : "Black Pepper",
+            "strIngredient16" : "",
+            "strIngredient17" : "",
+            "strIngredient18" : "",
+            "strIngredient19" : "",
+            "strIngredient2" : "Fennel",
+            "strIngredient20" : "",
+            "strIngredient3" : "Red Pepper",
+            "strIngredient4" : "Courgettes",
+            "strIngredient5" : "Onion",
+            "strIngredient6" : "Paella Rice",
+            "strIngredient7" : "Paprika",
+            "strIngredient8" : "Saffron",
+            "strIngredient9" : "White Wine",
+            "strInstructions" : "1 Put the fennel, aubergine, pepper and courgette in a roasting tray. Add a glug of olive oil, season with salt and pepper and toss around to coat the veggies in the oil. Roast in the oven for 20 minutes, turning a couple of times until the veg are pretty much cooked through and turning golden.\r\n\r\n2 Meanwhile, heat a paella pan or large frying pan over a low– medium heat and add a glug of olive oil. Sauté the onion for 8–10 minutes until softened. Increase the heat to medium and stir in the rice, paprika and saffron. Cook for around 1 minute to start toasting the rice, then add the white wine. Reduce by about half before stirring in two-thirds of the stock. Reduce to a simmer and cook for 10 minutes without a lid, stirring a couple of times.\r\n\r\n3 Stir in the peas, add some seasoning, then gently mix in the roasted veg. Pour over the remaining stock, arrange the lemon wedges on top and cover with a lid or some aluminium foil. Cook for a further 10 minutes.\r\n\r\n4 To ensure you get the classic layer of toasted rice at the bottom of the pan, increase the heat to high until you hear a slight crackle. Remove from the heat and sit for 5 minutes before sprinkling over the parsley and serving.",
+            "strMeal" : "Roast fennel and aubergine paella",
+            "strMealThumb" : "https://www.themealdb.com/images/media/meals/1520081754.jpg",
+            "strMeasure1" : "6 small",
+            "strMeasure10" : "700ml",
+            "strMeasure11" : "100g ",
+            "strMeasure12" : "1 chopped",
+            "strMeasure13" : "Handful",
+            "strMeasure14" : "pinch",
+            "strMeasure15" : "pinch",
+            "strMeasure16" : "",
+            "strMeasure17" : "",
+            "strMeasure18" : "",
+            "strMeasure19" : "",
+            "strMeasure2" : "4 small",
+            "strMeasure20" : "",
+            "strMeasure3" : "1 thinly sliced",
+            "strMeasure4" : "1 medium",
+            "strMeasure5" : "1 finely chopped ",
+            "strMeasure6" : "300g",
+            "strMeasure7" : "1 tsp ",
+            "strMeasure8" : "pinch",
+            "strMeasure9" : "200ml",
+            "strSource" : "https://www.homestylemag.co.uk/recipe/517/main-courses/roast-fennel-and-aubergine-paella",
+            "strTags" : "Vegan,Paella",
+            "strYoutube" : "https://www.youtube.com/watch?v=H5SmjR-fxUs"
+          }
+        },
+        "dummy" : 0
+      },
+      "unassignedIngredients" : [ {
+        "item" : "2 quarts neutral frying Oil",
+        "recipeNumber" : "52813"
+      }, {
+        "item" : "1 Egg White",
+        "recipeNumber" : "52813"
+      }, {
+        "item" : "1 tablespoon Salt",
+        "recipeNumber" : "52813"
+      }, {
+        "item" : "1 teaspoon black pepper",
+        "recipeNumber" : "52813"
+      }, {
+        "item" : "1/2 teaspoon sage",
+        "recipeNumber" : "52813"
+      }, {
+        "item" : "1/2 teaspoon allspice",
+        "recipeNumber" : "52813"
+      }, {
+        "item" : "1/2 teaspoon oregano",
+        "recipeNumber" : "52813"
+      }, {
+        "item" : "1/2 teaspoon marjoram",
+        "recipeNumber" : "52813"
+      }, {
+        "item" : "6 small Baby Aubergine",
+        "recipeNumber" : "52942"
+      }, {
+        "item" : "4 small Fennel",
+        "recipeNumber" : "52942"
+      }, {
+        "item" : "1 finely chopped  Onion",
+        "recipeNumber" : "52942"
+      }, {
+        "item" : "300g Paella Rice",
+        "recipeNumber" : "52942"
+      }, {
+        "item" : "1 tsp  Paprika",
+        "recipeNumber" : "52942"
+      }, {
+        "item" : "pinch Saffron",
+        "recipeNumber" : "52942"
+      }, {
+        "item" : "pinch Salt",
+        "recipeNumber" : "52942"
+      }, {
+        "item" : "pinch Black Pepper",
+        "recipeNumber" : "52942"
+      }, {
+        "item" : "Handful Sea Salt",
+        "recipeNumber" : "52907"
+      }, {
+        "item" : "4 Bay Leaf",
+        "recipeNumber" : "52907"
+      }, {
+        "item" : "4 cloves Garlic",
+        "recipeNumber" : "52907"
+      }, {
+        "item" : "Handful Thyme",
+        "recipeNumber" : "52907"
+      }, {
+        "item" : "4 Duck Legs",
+        "recipeNumber" : "52907"
+      }, {
+        "item" : "100ml White Wine",
+        "recipeNumber" : "52907"
+      }, {
+        "item" : "1/2 teaspoon garlic powder",
+        "recipeNumber" : "52813"
+      } ]
+    },
+    "amy" : {
+      "eventName" : "amy",
+      "guests" : {
+        "dummy" : 0
+      },
+      "recipes" : {
+        "Chicken & mushroom Hotpot" : {
+          "ingredients" : [ "50g Butter", "1 chopped Onion", "100g  Mushrooms", "40g Plain Flour", "1 Chicken Stock Cube", "pinch Nutmeg", "pinch Mustard Powder", "250g Chicken", "2 Handfuls Sweetcorn", "2 large Potatoes", "1 knob Butter" ],
+          "recipe" : {
+            "idMeal" : "52846",
+            "strArea" : "British",
+            "strCategory" : "Chicken",
+            "strIngredient1" : "Butter",
+            "strIngredient10" : "Potatoes",
+            "strIngredient11" : "Butter",
+            "strIngredient12" : "",
+            "strIngredient13" : "",
+            "strIngredient14" : "",
+            "strIngredient15" : "",
+            "strIngredient16" : "",
+            "strIngredient17" : "",
+            "strIngredient18" : "",
+            "strIngredient19" : "",
+            "strIngredient2" : "Onion",
+            "strIngredient20" : "",
+            "strIngredient3" : "Mushrooms",
+            "strIngredient4" : "Plain Flour",
+            "strIngredient5" : "Chicken Stock Cube",
+            "strIngredient6" : "Nutmeg",
+            "strIngredient7" : "Mustard Powder",
+            "strIngredient8" : "Chicken",
+            "strIngredient9" : "Sweetcorn",
+            "strInstructions" : "Heat oven to 200C/180C fan/gas 6. Put the butter in a medium-size saucepan and place over a medium heat. Add the onion and leave to cook for 5 mins, stirring occasionally. Add the mushrooms to the saucepan with the onions.\r\n\r\nOnce the onion and mushrooms are almost cooked, stir in the flour – this will make a thick paste called a roux. If you are using a stock cube, crumble the cube into the roux now and stir well. Put the roux over a low heat and stir continuously for 2 mins – this will cook the flour and stop the sauce from having a floury taste.\r\n\r\nTake the roux off the heat. Slowly add the fresh stock, if using, or pour in 500ml water if you’ve used a stock cube, stirring all the time. Once all the liquid has been added, season with pepper, a pinch of nutmeg and mustard powder. Put the saucepan back onto a medium heat and slowly bring it to the boil, stirring all the time. Once the sauce has thickened, place on a very low heat. Add the cooked chicken and vegetables to the sauce and stir well. Grease a medium-size ovenproof pie dish with a little butter and pour in the chicken and mushroom filling.\r\n\r\nCarefully lay the potatoes on top of the hot-pot filling, overlapping them slightly, almost like a pie top.\r\n\r\nBrush the potatoes with a little melted butter and cook in the oven for about 35 mins. The hot-pot is ready once the potatoes are cooked and golden brown.",
+            "strMeal" : "Chicken & mushroom Hotpot",
+            "strMealThumb" : "https://www.themealdb.com/images/media/meals/uuuspp1511297945.jpg",
+            "strMeasure1" : "50g",
+            "strMeasure10" : "2 large",
+            "strMeasure11" : "1 knob",
+            "strMeasure12" : "",
+            "strMeasure13" : "",
+            "strMeasure14" : "",
+            "strMeasure15" : "",
+            "strMeasure16" : "",
+            "strMeasure17" : "",
+            "strMeasure18" : "",
+            "strMeasure19" : "",
+            "strMeasure2" : "1 chopped",
+            "strMeasure20" : "",
+            "strMeasure3" : "100g ",
+            "strMeasure4" : "40g",
+            "strMeasure5" : "1",
+            "strMeasure6" : "pinch",
+            "strMeasure7" : "pinch",
+            "strMeasure8" : "250g",
+            "strMeasure9" : "2 Handfuls",
+            "strSource" : "https://www.bbcgoodfood.com/recipes/chicken-mushroom-hot-pot",
+            "strYoutube" : "https://www.youtube.com/watch?v=bXKWu4GojNI"
+          }
+        },
+        "dummy" : 0
+      },
+      "unassignedIngredients" : [ {
+        "item" : "50g Butter",
+        "recipeNumber" : "52846"
+      }, {
+        "item" : "1 chopped Onion",
+        "recipeNumber" : "52846"
+      }, {
+        "item" : "100g  Mushrooms",
+        "recipeNumber" : "52846"
+      }, {
+        "item" : "40g Plain Flour",
+        "recipeNumber" : "52846"
+      }, {
+        "item" : "1 Chicken Stock Cube",
+        "recipeNumber" : "52846"
+      }, {
+        "item" : "pinch Nutmeg",
+        "recipeNumber" : "52846"
+      }, {
+        "item" : "pinch Mustard Powder",
+        "recipeNumber" : "52846"
+      }, {
+        "item" : "250g Chicken",
+        "recipeNumber" : "52846"
+      }, {
+        "item" : "2 Handfuls Sweetcorn",
+        "recipeNumber" : "52846"
+      }, {
+        "item" : "2 large Potatoes",
+        "recipeNumber" : "52846"
+      }, {
+        "item" : "1 knob Butter",
+        "recipeNumber" : "52846"
+      } ]
+    },
+    "anna" : {
+      "eventName" : "anna",
+      "guests" : {
+        "dummy" : 0
+      },
+      "recipes" : {
+        "dummy" : 0
+      },
+      "unassignedIngredients" : [ "dummy" ]
+    },
+    "armenia test" : {
+      "eventName" : "armenia test",
+      "guests" : {
+        "dummy" : 0,
+        "guestList" : [ {
+          "name" : "h"
+        } ]
+      },
+      "recipes" : {
+        "Beef and Oyster pie" : {
+          "ingredients" : [ "900g Beef", "3 tbs Olive Oil", "3 Shallots", "2 cloves minced Garlic", "125g Bacon", "1 tbs chopped Thyme", "2 Bay Leaf", "330ml Stout", "400ml Beef Stock", "2 tbs Corn Flour", "8 Oysters", "400g Plain Flour", "pinch Salt", "250g Butter", "To Glaze Eggs" ],
+          "recipe" : {
+            "idMeal" : "52878",
+            "strArea" : "British",
+            "strCategory" : "Beef",
+            "strIngredient1" : "Beef",
+            "strIngredient10" : "Corn Flour",
+            "strIngredient11" : "Oysters",
+            "strIngredient12" : "Plain Flour",
+            "strIngredient13" : "Salt",
+            "strIngredient14" : "Butter",
+            "strIngredient15" : "Eggs",
+            "strIngredient16" : "",
+            "strIngredient17" : "",
+            "strIngredient18" : "",
+            "strIngredient19" : "",
+            "strIngredient2" : "Olive Oil",
+            "strIngredient20" : "",
+            "strIngredient3" : "Shallots",
+            "strIngredient4" : "Garlic",
+            "strIngredient5" : "Bacon",
+            "strIngredient6" : "Thyme",
+            "strIngredient7" : "Bay Leaf",
+            "strIngredient8" : "Stout",
+            "strIngredient9" : "Beef Stock",
+            "strInstructions" : "Season the beef cubes with salt and black pepper. Heat a tablespoon of oil in the frying pan and fry the meat over a high heat. Do this in three batches so that you don’t overcrowd the pan, transferring the meat to a large flameproof casserole dish once it is browned all over. Add extra oil if the pan seems dry.\r\nIn the same pan, add another tablespoon of oil and cook the shallots for 4-5 minutes, then add the garlic and fry for 30 seconds. Add the bacon and fry until slightly browned. Transfer the onion and bacon mixture to the casserole dish and add the herbs.\r\nPreheat the oven to 180C/350F/Gas 4.\r\nPour the stout into the frying pan and bring to the boil, stirring to lift any stuck-on browned bits from the bottom of the pan. Pour the stout over the beef in the casserole dish and add the stock. Cover the casserole and place it in the oven for 1½-2 hours, or until the beef is tender and the sauce is reduced.\r\nSkim off any surface fat, taste and add salt and pepper if necessary, then stir in the cornflour paste. Put the casserole dish on the hob – don’t forget that it will be hot – and simmer for 1-2 minutes, stirring, until thickened. Leave to cool.\r\nIncrease the oven to 200C/400F/Gas 6. To make the pastry, put the flour and salt in a very large bowl. Grate the butter and stir it into the flour in three batches. Gradually add 325ml/11fl oz cold water – you may not need it all – and stir with a round-bladed knife until the mixture just comes together. Knead the pastry lightly into a ball on a lightly floured surface and set aside 250g/9oz for the pie lid.\r\nRoll the rest of the pastry out until about 2cm/¾in larger than the dish you’re using. Line the dish with the pastry then pile in the filling, tucking the oysters in as well. Brush the edge of the pastry with beaten egg.\r\nRoll the remaining pastry until slightly larger than your dish and gently lift over the filling, pressing the edges firmly to seal, then trim with a sharp knife. Brush with beaten egg to glaze. Put the dish on a baking tray and bake for 25-30 minutes, or until the pastry is golden-brown and the filling is bubbling.",
+            "strMeal" : "Beef and Oyster pie",
+            "strMealThumb" : "https://www.themealdb.com/images/media/meals/wrssvt1511556563.jpg",
+            "strMeasure1" : "900g",
+            "strMeasure10" : "2 tbs",
+            "strMeasure11" : "8",
+            "strMeasure12" : "400g",
+            "strMeasure13" : "pinch",
+            "strMeasure14" : "250g",
+            "strMeasure15" : "To Glaze",
+            "strMeasure16" : "",
+            "strMeasure17" : "",
+            "strMeasure18" : "",
+            "strMeasure19" : "",
+            "strMeasure2" : "3 tbs",
+            "strMeasure20" : "",
+            "strMeasure3" : "3",
+            "strMeasure4" : "2 cloves minced",
+            "strMeasure5" : "125g",
+            "strMeasure6" : "1 tbs chopped",
+            "strMeasure7" : "2",
+            "strMeasure8" : "330ml",
+            "strMeasure9" : "400ml",
+            "strSource" : "https://www.bbc.co.uk/food/recipes/beef_and_oyster_pie_65230",
+            "strTags" : "Pie",
+            "strYoutube" : "https://www.youtube.com/watch?v=ONX74yP6JnI"
+          }
+        },
+        "Brown Stew Chicken" : {
+          "ingredients" : [ "1 whole Chicken", "1 chopped Tomato", "2 chopped Onions", "2 chopped Garlic Clove", "1 chopped Red Pepper", "1 chopped Carrots", "1 Lime", "2 tsp Thyme", "1 tsp  Allspice", "2 tbs Soy Sauce", "2 tsp Cornstarch", "2 cups  Coconut Milk", "1 tbs Vegetable Oil" ],
+          "recipe" : {
+            "idMeal" : "52940",
+            "strArea" : "Jamaican",
+            "strCategory" : "Chicken",
+            "strIngredient1" : "Chicken",
+            "strIngredient10" : "Soy Sauce",
+            "strIngredient11" : "Cornstarch",
+            "strIngredient12" : "Coconut Milk",
+            "strIngredient13" : "Vegetable Oil",
+            "strIngredient14" : "",
+            "strIngredient15" : "",
+            "strIngredient16" : "",
+            "strIngredient17" : "",
+            "strIngredient18" : "",
+            "strIngredient19" : "",
+            "strIngredient2" : "Tomato",
+            "strIngredient20" : "",
+            "strIngredient3" : "Onions",
+            "strIngredient4" : "Garlic Clove",
+            "strIngredient5" : "Red Pepper",
+            "strIngredient6" : "Carrots",
+            "strIngredient7" : "Lime",
+            "strIngredient8" : "Thyme",
+            "strIngredient9" : "Allspice",
+            "strInstructions" : "Squeeze lime over chicken and rub well. Drain off excess lime juice.\r\nCombine tomato, scallion, onion, garlic, pepper, thyme, pimento and soy sauce in a large bowl with the chicken pieces. Cover and marinate at least one hour.\r\nHeat oil in a dutch pot or large saucepan. Shake off the seasonings as you remove each piece of chicken from the marinade. Reserve the marinade for sauce.\r\nLightly brown the chicken a few pieces at a time in very hot oil. Place browned chicken pieces on a plate to rest while you brown the remaining pieces.\r\nDrain off excess oil and return the chicken to the pan. Pour the marinade over the chicken and add the carrots. Stir and cook over medium heat for 10 minutes.\r\nMix flour and coconut milk and add to stew, stirring constantly. Turn heat down to minimum and cook another 20 minutes or until tender.",
+            "strMeal" : "Brown Stew Chicken",
+            "strMealThumb" : "https://www.themealdb.com/images/media/meals/sypxpx1515365095.jpg",
+            "strMeasure1" : "1 whole",
+            "strMeasure10" : "2 tbs",
+            "strMeasure11" : "2 tsp",
+            "strMeasure12" : "2 cups ",
+            "strMeasure13" : "1 tbs",
+            "strMeasure14" : "",
+            "strMeasure15" : "",
+            "strMeasure16" : "",
+            "strMeasure17" : "",
+            "strMeasure18" : "",
+            "strMeasure19" : "",
+            "strMeasure2" : "1 chopped",
+            "strMeasure20" : "",
+            "strMeasure3" : "2 chopped",
+            "strMeasure4" : "2 chopped",
+            "strMeasure5" : "1 chopped",
+            "strMeasure6" : "1 chopped",
+            "strMeasure7" : "1",
+            "strMeasure8" : "2 tsp",
+            "strMeasure9" : "1 tsp ",
+            "strSource" : "http://www.geniuskitchen.com/recipe/authentic-jamaican-brown-stew-chicken-347996",
+            "strTags" : "Stew",
+            "strYoutube" : "https://www.youtube.com/watch?v=_gFB1fkNhXs"
+          }
+        },
+        "dummy" : 0
+      }
+    },
+    "fred" : {
+      "eventName" : "fred",
+      "guests" : {
+        "dummy" : 0
+      },
+      "recipes" : {
+        "dummy" : 0
+      },
+      "unassignedIngredients" : [ "dummy" ]
+    },
+    "hellosafd" : {
+      "eventName" : "hellosafd",
+      "guests" : {
+        "dummy" : 0
+      },
+      "recipes" : {
+        "dummy" : 0
+      },
+      "unassignedIngredients" : [ "dummy" ]
+    },
+    "test" : {
+      "eventName" : "test",
+      "guests" : {
+        "dummy" : 0
+      },
+      "recipes" : {
+        "dummy" : 0
+      },
+      "unassignedIngredients" : [ "dummy" ]
+    }
+  }
+}
